@@ -12,3 +12,6 @@ class UserData(models.Model):
 
 class Test():
     pass
+
+class Abc():
+    pass
