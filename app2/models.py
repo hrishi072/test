@@ -9,3 +9,6 @@ class UserData(models.Model):
 
     def __str__(self):
         return str(self.userprofile)
+
+class Test():
+    pass
